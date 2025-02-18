@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8e63d36f-a5c8-3d7a-9eb3-79793e725c1f",
+    "name": "cristianat",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
