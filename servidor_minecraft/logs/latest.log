@@ -1,23 +1,23 @@
-[22Feb2025 22:10:39.389] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22Feb2025 22:10:39.393] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[22Feb2025 22:10:40.351] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Feb2025 22:10:40.391] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wasashijko/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Feb2025 22:10:40.848] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Feb2025 22:10:40.849] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Feb2025 22:10:40.850] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Feb2025 22:10:40.852] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Feb2025 22:10:41.155] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[22Feb2025 22:10:41.157] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/wasashijko/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.jar
-[22Feb2025 22:10:41.157] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[22Feb2025 22:10:44.632] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Feb2025 22:10:44.931] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Feb2025 22:10:45.080] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.108] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.126] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.161] [main/WARN] [mixin/]: Reference map 'mixins.boh.refmap.json' for mixins.boh.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.164] [main/WARN] [mixin/]: Reference map 'mixins.sons_of_sins.refmap.json' for mixins.sons_of_sins.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.193] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.218] [main/INFO] [Puzzles Lib/]: Loading 123 mods:
+[22Feb2025 22:13:09.113] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Feb2025 22:13:09.118] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Feb2025 22:13:10.264] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Feb2025 22:13:10.318] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wasashijko/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Feb2025 22:13:10.785] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Feb2025 22:13:10.786] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Feb2025 22:13:10.787] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Feb2025 22:13:10.788] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wasashijko/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Feb2025 22:13:11.156] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Feb2025 22:13:11.158] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/wasashijko/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.jar
+[22Feb2025 22:13:11.159] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[22Feb2025 22:13:15.462] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Feb2025 22:13:15.843] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Feb2025 22:13:16.078] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.133] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.158] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.204] [main/WARN] [mixin/]: Reference map 'mixins.boh.refmap.json' for mixins.boh.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.208] [main/WARN] [mixin/]: Reference map 'mixins.sons_of_sins.refmap.json' for mixins.sons_of_sins.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.248] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.280] [main/INFO] [Puzzles Lib/]: Loading 123 mods:
 	- alexscaves 2.0.2
 	- architectury 9.2.14
 	- ars_nouveau 4.12.6
@@ -141,27 +141,27 @@
 	- visualworkbench 8.0.0
 	- waystones 14.1.9
 	- zombiesmore 2.0.0
-[22Feb2025 22:10:45.231] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.245] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Feb2025 22:10:45.851] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[22Feb2025 22:10:45.852] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[22Feb2025 22:10:45.853] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[22Feb2025 22:10:45.879] [main/WARN] [mixin/]: Error loading class: com/github/alexthe666/alexsmobs/entity/EntityFart (java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.entity.EntityFart)
-[22Feb2025 22:10:45.880] [main/WARN] [mixin/]: @Mixin target com.github.alexthe666.alexsmobs.entity.EntityFart was not found ramcompat.mixins.json:EntityFartMixin
-[22Feb2025 22:10:45.883] [main/WARN] [mixin/]: Error loading class: com/github/alexthe666/alexsmobs/entity/EntityIceShard (java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.entity.EntityIceShard)
-[22Feb2025 22:10:45.884] [main/WARN] [mixin/]: @Mixin target com.github.alexthe666.alexsmobs.entity.EntityIceShard was not found ramcompat.mixins.json:EntityIceShardMixin
-[22Feb2025 22:10:45.888] [main/WARN] [mixin/]: Error loading class: com/github/alexthe666/alexsmobs/entity/EntityTendonSegment (java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.entity.EntityTendonSegment)
-[22Feb2025 22:10:45.889] [main/WARN] [mixin/]: @Mixin target com.github.alexthe666.alexsmobs.entity.EntityTendonSegment was not found ramcompat.mixins.json:EntityTendonSegmentMixin
-[22Feb2025 22:10:46.720] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[22Feb2025 22:10:47.150] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22Feb2025 22:10:50.747] [main/WARN] [mixin/]: Method overwrite conflict for getMobSpawnType in majruszlibrary-common.mixins.json:MixinMob, previously written by com.izofar.takesapillage.mixin.MobRememberSpawnReasonMixin. Skipping method.
-[22Feb2025 22:10:53.763] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[22Feb2025 22:13:16.292] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:16.324] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Feb2025 22:13:17.341] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[22Feb2025 22:13:17.342] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[22Feb2025 22:13:17.343] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[22Feb2025 22:13:17.392] [main/WARN] [mixin/]: Error loading class: com/github/alexthe666/alexsmobs/entity/EntityFart (java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.entity.EntityFart)
+[22Feb2025 22:13:17.393] [main/WARN] [mixin/]: @Mixin target com.github.alexthe666.alexsmobs.entity.EntityFart was not found ramcompat.mixins.json:EntityFartMixin
+[22Feb2025 22:13:17.397] [main/WARN] [mixin/]: Error loading class: com/github/alexthe666/alexsmobs/entity/EntityIceShard (java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.entity.EntityIceShard)
+[22Feb2025 22:13:17.397] [main/WARN] [mixin/]: @Mixin target com.github.alexthe666.alexsmobs.entity.EntityIceShard was not found ramcompat.mixins.json:EntityIceShardMixin
+[22Feb2025 22:13:17.401] [main/WARN] [mixin/]: Error loading class: com/github/alexthe666/alexsmobs/entity/EntityTendonSegment (java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.entity.EntityTendonSegment)
+[22Feb2025 22:13:17.402] [main/WARN] [mixin/]: @Mixin target com.github.alexthe666.alexsmobs.entity.EntityTendonSegment was not found ramcompat.mixins.json:EntityTendonSegmentMixin
+[22Feb2025 22:13:18.455] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[22Feb2025 22:13:18.831] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Feb2025 22:13:22.375] [main/WARN] [mixin/]: Method overwrite conflict for getMobSpawnType in majruszlibrary-common.mixins.json:MixinMob, previously written by com.izofar.takesapillage.mixin.MobRememberSpawnReasonMixin. Skipping method.
+[22Feb2025 22:13:25.666] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[22Feb2025 22:10:54.868] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[22Feb2025 22:10:54.922] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[22Feb2025 22:10:54.924] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[22Feb2025 22:10:54.925] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[22Feb2025 22:10:55.187] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: ramcompat, class it.hurts.sskirillss.ramcompat.RAMCompat
+[22Feb2025 22:13:26.974] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[22Feb2025 22:13:27.038] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[22Feb2025 22:13:27.040] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[22Feb2025 22:13:27.045] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[22Feb2025 22:13:27.439] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: ramcompat, class it.hurts.sskirillss.ramcompat.RAMCompat
 java.lang.NoClassDefFoundError: com/github/alexthe666/alexsmobs/entity/EntityTendonSegment
 	at it.hurts.sskirillss.ramcompat.init.ItemRegistry.<clinit>(ItemRegistry.java:17) ~[ramcompat-1.20.1-0.1.4.jar%23301!/:1.20.1-0.1.4]
 	at it.hurts.sskirillss.ramcompat.RAMCompat.<init>(RAMCompat.java:16) ~[ramcompat-1.20.1-0.1.4.jar%23301!/:1.20.1-0.1.4]
@@ -187,86 +187,79 @@ Caused by: java.lang.ClassNotFoundException: com.github.alexthe666.alexsmobs.ent
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 16 more
-[22Feb2025 22:10:55.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wasashijko/servidor_minecraft/config/jeresources.toml is not correct. Correcting
-[22Feb2025 22:10:55.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
-[22Feb2025 22:10:55.238] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
-[22Feb2025 22:10:55.239] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key diyData was corrected from null to its default, true. 
-[22Feb2025 22:10:55.240] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key showDevData was corrected from null to its default, false. 
-[22Feb2025 22:10:55.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
-[22Feb2025 22:10:55.243] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hiddenTabs was corrected from null to its default, []. 
-[22Feb2025 22:10:55.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
-[22Feb2025 22:10:55.248] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
-[22Feb2025 22:10:56.885] [modloading-worker-0/WARN] [com.cupboard.Cupboard/]: Config cupboard.json not found, recreating default
-[22Feb2025 22:10:56.891] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[22Feb2025 22:10:56.897] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
-[22Feb2025 22:10:56.902] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
-[22Feb2025 22:10:56.906] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
-[22Feb2025 22:10:56.908] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
-[22Feb2025 22:10:56.912] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
-[22Feb2025 22:10:56.926] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
-[22Feb2025 22:10:56.928] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
-[22Feb2025 22:10:56.931] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
-[22Feb2025 22:10:56.935] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
-[22Feb2025 22:10:56.939] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
-[22Feb2025 22:10:56.942] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
-[22Feb2025 22:10:56.944] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
-[22Feb2025 22:10:56.950] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
-[22Feb2025 22:10:56.958] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
-[22Feb2025 22:10:56.960] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
-[22Feb2025 22:10:56.963] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Feb2025 22:10:56.965] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
-[22Feb2025 22:10:56.967] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
-[22Feb2025 22:10:56.979] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
-[22Feb2025 22:10:56.981] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
-[22Feb2025 22:10:57.002] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
-[22Feb2025 22:10:57.012] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
-[22Feb2025 22:10:57.023] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
-[22Feb2025 22:10:57.043] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
-[22Feb2025 22:10:57.046] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
-[22Feb2025 22:10:57.047] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
-[22Feb2025 22:10:57.050] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
-[22Feb2025 22:10:57.057] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
-[22Feb2025 22:10:57.063] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
-[22Feb2025 22:10:57.065] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Jump
-[22Feb2025 22:10:57.077] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
-[22Feb2025 22:10:57.080] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
-[22Feb2025 22:10:57.083] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
-[22Feb2025 22:10:57.086] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
-[22Feb2025 22:10:57.094] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
-[22Feb2025 22:10:57.096] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
-[22Feb2025 22:10:57.098] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
-[22Feb2025 22:10:57.108] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
-[22Feb2025 22:10:57.117] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
-[22Feb2025 22:10:57.127] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
-[22Feb2025 22:10:57.129] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
-[22Feb2025 22:10:57.131] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
-[22Feb2025 22:10:57.142] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
-[22Feb2025 22:10:57.154] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
-[22Feb2025 22:10:57.165] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
-[22Feb2025 22:10:57.178] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
-[22Feb2025 22:10:57.181] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
-[22Feb2025 22:10:57.182] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
-[22Feb2025 22:10:57.184] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
-[22Feb2025 22:10:57.341] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[22Feb2025 22:10:57.512] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[22Feb2025 22:10:57.636] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/wasashijko/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
-[22Feb2025 22:10:57.637] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[22Feb2025 22:10:57.670] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[22Feb2025 22:10:57.760] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/wasashijko/servidor_minecraft/config/awesomedungeon_1.properties created and initialized with default value
-[22Feb2025 22:10:57.842] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[22Feb2025 22:10:57.874] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[22Feb2025 22:10:57.876] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[22Feb2025 22:10:57.877] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[22Feb2025 22:10:57.878] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[22Feb2025 22:10:57.868] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[22Feb2025 22:10:57.879] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[22Feb2025 22:10:57.883] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[22Feb2025 22:10:57.886] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[22Feb2025 22:10:58.056] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Feb2025 22:10:58.057] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Feb2025 22:11:01.326] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[22Feb2025 22:11:01.341] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
-[22Feb2025 22:11:01.348] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to register automatic subscribers. ModID: legendary_monsters, class net.miauczel.legendary_monsters.LegendaryMonsters
+[22Feb2025 22:13:28.937] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[22Feb2025 22:13:28.942] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
+[22Feb2025 22:13:28.944] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
+[22Feb2025 22:13:28.949] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
+[22Feb2025 22:13:28.961] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
+[22Feb2025 22:13:28.964] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
+[22Feb2025 22:13:28.965] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
+[22Feb2025 22:13:28.967] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
+[22Feb2025 22:13:28.969] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
+[22Feb2025 22:13:28.981] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
+[22Feb2025 22:13:28.981] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
+[22Feb2025 22:13:28.983] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
+[22Feb2025 22:13:28.984] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
+[22Feb2025 22:13:28.986] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
+[22Feb2025 22:13:28.987] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
+[22Feb2025 22:13:28.990] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Feb2025 22:13:28.997] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
+[22Feb2025 22:13:29.009] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
+[22Feb2025 22:13:29.011] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
+[22Feb2025 22:13:29.013] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
+[22Feb2025 22:13:29.015] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
+[22Feb2025 22:13:29.020] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
+[22Feb2025 22:13:29.035] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
+[22Feb2025 22:13:29.036] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
+[22Feb2025 22:13:29.039] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
+[22Feb2025 22:13:29.067] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
+[22Feb2025 22:13:29.068] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
+[22Feb2025 22:13:29.070] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
+[22Feb2025 22:13:29.087] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
+[22Feb2025 22:13:29.088] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
+[22Feb2025 22:13:29.090] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Jump
+[22Feb2025 22:13:29.092] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
+[22Feb2025 22:13:29.093] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
+[22Feb2025 22:13:29.097] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
+[22Feb2025 22:13:29.111] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
+[22Feb2025 22:13:29.113] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
+[22Feb2025 22:13:29.115] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
+[22Feb2025 22:13:29.116] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
+[22Feb2025 22:13:29.126] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
+[22Feb2025 22:13:29.128] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
+[22Feb2025 22:13:29.128] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
+[22Feb2025 22:13:29.130] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
+[22Feb2025 22:13:29.132] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
+[22Feb2025 22:13:29.134] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
+[22Feb2025 22:13:29.143] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
+[22Feb2025 22:13:29.150] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
+[22Feb2025 22:13:29.157] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
+[22Feb2025 22:13:29.161] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
+[22Feb2025 22:13:29.167] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
+[22Feb2025 22:13:29.174] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
+[22Feb2025 22:13:29.484] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[22Feb2025 22:13:29.649] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[22Feb2025 22:13:29.793] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[22Feb2025 22:13:29.810] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[22Feb2025 22:13:29.965] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[22Feb2025 22:13:30.019] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[22Feb2025 22:13:30.026] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[22Feb2025 22:13:30.027] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[22Feb2025 22:13:30.028] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[22Feb2025 22:13:30.032] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[22Feb2025 22:13:30.033] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[22Feb2025 22:13:30.034] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[22Feb2025 22:13:30.045] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[22Feb2025 22:13:30.260] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Feb2025 22:13:30.261] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Feb2025 22:13:33.546] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Feb2025 22:13:33.654] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[22Feb2025 22:13:33.659] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[22Feb2025 22:13:33.663] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[22Feb2025 22:13:33.665] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[22Feb2025 22:13:33.667] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
+[22Feb2025 22:13:33.668] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[22Feb2025 22:13:33.667] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to register automatic subscribers. ModID: legendary_monsters, class net.miauczel.legendary_monsters.LegendaryMonsters
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -317,45 +310,31 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/particl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22Feb2025 22:11:01.385] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
-[22Feb2025 22:11:01.413] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
-[22Feb2025 22:11:01.420] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
-[22Feb2025 22:11:01.424] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
-[22Feb2025 22:11:01.425] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
-[22Feb2025 22:11:01.429] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
-[22Feb2025 22:11:01.430] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
-[22Feb2025 22:11:01.432] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type'
-[22Feb2025 22:11:01.442] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability'
-[22Feb2025 22:11:01.444] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment'
-[22Feb2025 22:11:01.446] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt'
-[22Feb2025 22:11:01.453] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:wielder_effect'
-[22Feb2025 22:11:01.459] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier'
-[22Feb2025 22:11:01.461] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute'
-[22Feb2025 22:11:01.465] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
-[22Feb2025 22:11:01.471] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
-[22Feb2025 22:11:01.473] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
-[22Feb2025 22:11:01.475] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
-[22Feb2025 22:11:01.478] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
-[22Feb2025 22:11:01.481] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
-[22Feb2025 22:11:01.486] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
-[22Feb2025 22:11:01.490] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
-[22Feb2025 22:11:01.495] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_mining_speed'
-[22Feb2025 22:11:01.495] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgems:critical_strike'
-[22Feb2025 22:11:01.500] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[22Feb2025 22:11:01.845] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wasashijko/servidor_minecraft/config/dawnera.toml is not correct. Correcting
-[22Feb2025 22:11:01.846] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ageAttributeMultiplier was corrected from null to its default, 0.3499999940395355. 
-[22Feb2025 22:11:01.848] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tameAttributeMultiplier was corrected from null to its default, 1.25. 
-[22Feb2025 22:11:01.849] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key treeFall was corrected from null to its default, true. 
-[22Feb2025 22:11:01.852] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wasashijko/servidor_minecraft/config/dawnera-client.toml is not correct. Correcting
-[22Feb2025 22:11:01.853] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Client Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[22Feb2025 22:11:01.853] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Client Settings.roarParticles was corrected from null to its default, true. 
-[22Feb2025 22:11:01.854] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Client Settings.dinoGuiX was corrected from null to its default, 55. 
-[22Feb2025 22:11:01.854] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Client Settings.dinoGuiY was corrected from null to its default, 144. 
-[22Feb2025 22:11:01.867] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 2 errors found
-[22Feb2025 22:11:01.961] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 36282e1c-d0b0-451f-a0b5-a4b3813ce895
-[22Feb2025 22:11:01.963] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-02-22_22.11.01-fml.txt
-[22Feb2025 22:11:01.979] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 43c2cfd6-89df-4c45-a6ca-81dd277ce4db
-[22Feb2025 22:11:01.994] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[22Feb2025 22:13:33.672] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[22Feb2025 22:13:33.672] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[22Feb2025 22:13:33.676] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type'
+[22Feb2025 22:13:33.678] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability'
+[22Feb2025 22:13:33.682] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment'
+[22Feb2025 22:13:33.687] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt'
+[22Feb2025 22:13:33.691] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:wielder_effect'
+[22Feb2025 22:13:33.693] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier'
+[22Feb2025 22:13:33.696] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute'
+[22Feb2025 22:13:33.699] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[22Feb2025 22:13:33.703] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
+[22Feb2025 22:13:33.705] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[22Feb2025 22:13:33.710] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
+[22Feb2025 22:13:33.714] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
+[22Feb2025 22:13:33.718] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
+[22Feb2025 22:13:33.723] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
+[22Feb2025 22:13:33.725] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
+[22Feb2025 22:13:33.725] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_mining_speed'
+[22Feb2025 22:13:33.725] [modloading-worker-0/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgems:critical_strike'
+[22Feb2025 22:13:33.740] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[22Feb2025 22:13:34.132] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 2 errors found
+[22Feb2025 22:13:34.222] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 636d36cf-486b-437b-adad-790c2410022b
+[22Feb2025 22:13:34.224] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-02-22_22.13.34-fml.txt
+[22Feb2025 22:13:34.233] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 843482ab-86cf-4721-b769-72c5d52001ac
+[22Feb2025 22:13:34.235] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	RAM-Compat (ramcompat) has failed to load correctly
 §7java.lang.NoClassDefFoundError: com/github/alexthe666/alexsmobs/entity/EntityTendonSegment,
